@@ -1,5 +1,5 @@
 # BEEP
-Case for the Sambar PCB by Dashkeebs (See his [github](https://github.com/DashDashUnderscoreDash/) or [store](https://www.dashkeebs.com/))
+Case for the Sambar PCB by DashKeebs (See his [github](https://github.com/DashDashUnderscoreDash/) or [store](https://www.dashkeebs.com/))
 <p align="center">
   <img src="Images/Dash_Sambar_Front.png" Width="800", alt="Front of case, pic from Dash"/>
   <img src="Images/Dash_Sambar_Back.png" Width="800", alt="Back of case, pic from Dash"/>
@@ -39,7 +39,7 @@ There is a **fake screw-hole** on the bottom case. We wanted additional screws f
   * US vendor: [Saberkeebs](https://saberkeebs.com/products/geon-tadpoles)
   * Worldwide vendor: [Geon](https://geon.works/products/tadpole)
 * JST Unified Daughterboard (C3)
-* Sambar PCB (See [dashkeebs]((https://www.dashkeebs.com/))
+* Sambar PCB: see [DashKeebs](https://www.dashkeebs.com/)
 
 ## Acknowledgements
 * Much appreciation to Dash (DashDashUnderscoreDash (--_-)) for helping me out with the design and bringing the idea to life with a PCB! Again, go check him out and support him: [github](https://github.com/DashDashUnderscoreDash/) or [store](https://www.dashkeebs.com/)
