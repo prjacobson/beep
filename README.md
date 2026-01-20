@@ -1,19 +1,19 @@
 # BEEP
 Case for the Sambar PCB by Dashkeebs (See his [github](https://github.com/DashDashUnderscoreDash/) or [store](https://www.dashkeebs.com/))
 <p align="center">
-<img src="Images/Dash_Sambar_Front.png" Width="800", alt="Front of case, pic from Dash"/>
-<img src="Images/Dash_Sambar_Back.png" Width="800", alt="Back of case, pic from Dash"/>
+  <img src="Images/Dash_Sambar_Front.png" Width="800", alt="Front of case, pic from Dash"/>
+  <img src="Images/Dash_Sambar_Back.png" Width="800", alt="Back of case, pic from Dash"/>
 </p>
-<p style="text-align: center;">
-_Pictures from Dash's build_
+<p style="align: center;">
+  <i>Pictures from Dash</i>
 </p>
 
 Case design inspired by the PCB's namesake, the humble Subaru Sambar
 <p align="center">
-<img src="Images/Subaru_Sambar.JPG" Width="300", alt="Subaru Sambar, picture from Wikipedia"/>
+  <img src="Images/Subaru_Sambar.JPG" Width="300", alt="Subaru Sambar, picture from Wikipedia"/>
 </p>
-<p style="text-align: center;">
-_Picture from the [Wikipedia article](https://en.wikipedia.org/wiki/Subaru_Sambar)_
+<p style="align: center;">
+  <i>Picture from the <a href="https://en.wikipedia.org/wiki/Subaru_Sambar">Wikipedia article</a></i>
 </p>
 
 ## KLC
@@ -42,4 +42,5 @@ There is a **fake screw-hole** on the bottom case. We wanted additional screws f
 * Sambar PCB (See [dashkeebs]((https://www.dashkeebs.com/))
 
 ## Acknowledgements
-Much appreciation to Dash for helping me out with the design and bringing the idea to life with a PCB! Again, go check him out and support him: [github](https://github.com/DashDashUnderscoreDash/) or [store](https://www.dashkeebs.com/)
+* Much appreciation to Dash (DashDashUnderscoreDash (--_-)) for helping me out with the design and bringing the idea to life with a PCB! Again, go check him out and support him: [github](https://github.com/DashDashUnderscoreDash/) or [store](https://www.dashkeebs.com/)
+* The case design and layout were both inspired by some of Cain from MechVault's work, go check him out too: [MechVault](https://mechvault.net/)
