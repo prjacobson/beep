@@ -1,11 +1,13 @@
 # BEEP
 Case for the Sambar PCB by DashKeebs (See his [github](https://github.com/DashDashUnderscoreDash/) or [store](https://www.dashkeebs.com/))
+
+*If you're reading this early enough, the [case](https://www.dashkeebs.com/product/beep-case-for-sambar-pcb) and [PCB](https://www.dashkeebs.com/product/sambar-pcb) are available for purchase!*
 <p align="center">
-  <img src="Images/Dash_Sambar_Front.png" Width="800", alt="Front of case, pic from Dash"/>
-  <img src="Images/Dash_Sambar_Back.png" Width="800", alt="Back of case, pic from Dash"/>
+  <img src="Images/Dash_Beep_Front.png" Width="800", alt="Front of case, pic from Dash"/>
+  <img src="Images/Dash_Beep_Back.png" Width="800", alt="Back of case, pic from Dash"/>
 </p>
 <p style="align: center;">
-  <i>Pictures from Dash (slightly older prototype)</i>
+  <i>Pictures from Dash</i>
 </p>
 
 Case design inspired by the PCB's namesake, the humble Subaru Sambar
@@ -23,7 +25,7 @@ PCB is an 11u, alpha stagger-ed, exploded bar-ed, half numrow-ed *beast*. See la
 </p>
 
 ## Build notes
-There's a `.3mf` file in `Case files` that includes the settings Dash used to get a good print. Thanks Dash!
+There's a `.3mf` file in `Case files` that includes the settings Dash used to get a good print. The 4-color maximizes pizazz, and the 3-color version uses PLA supports for an easier print. Thanks Dash!
 
 There are two badge options. In my opinion, the outset badge looks cooler, but it can be a pain to print. The inset badge is also an option.
 <p align="center">
@@ -31,10 +33,10 @@ There are two badge options. In my opinion, the outset badge looks cooler, but i
 <img src="Images/Badge_Outset.png" Width="400", alt="Outset Badge (the good one)"/>
 </p>
 
-There is a **fake screw-hole** on the bottom case. We wanted additional screws for some support, but the top side of the case is taken up by the tadpoles on one side. To maintain some symmetry, a fake screw-hole was added. This is not a model error, it's an aesthetic choice
+There is a **fake screw-hole** on the bottom case. We wanted additional screws for some support, but the top side of the case is taken up by the tadpoles on one side. To maintain some symmetry, a fake screw-hole was added. This is not a model error, it's an aesthetic choice.
 
 ## Required hardware
-* M2×4mm screws *(11×)*
+* M2×4mm (or 5mm) screws *(11×)*
 * M2×3mm heatset inserts *(11×)*
 * SKUF Feet *(4×)*
 * Geon tadpoles *(8×)*
