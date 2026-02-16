@@ -33,6 +33,8 @@ There are two badge options. In my opinion, the outset badge looks cooler, but i
 <img src="Images/Badge_Outset.png" Width="400", alt="Outset Badge (the good one)"/>
 </p>
 
+There is also a v2 case available which has a 5deg typing angle and slots for up to 8 wheel weights.
+
 There is a **fake screw-hole** on the bottom case. We wanted additional screws for some support, but the top side of the case is taken up by the tadpoles on one side. To maintain some symmetry, a fake screw-hole was added. This is not a model error, it's an aesthetic choice.
 
 ## Required hardware
