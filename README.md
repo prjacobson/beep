@@ -27,6 +27,8 @@ PCB is an 11u, alpha stagger-ed, exploded bar-ed, half numrow-ed *beast*. See la
 ## Build notes
 There's a `.3mf` file in `Case files` that includes the settings Dash used to get a good print. The 4-color maximizes pizazz, and the 3-color version uses PLA supports for an easier print. Thanks Dash!
 
+Dash also included a thicc plate for the case, thanks Dash part 2!
+
 There are two badge options. In my opinion, the outset badge looks cooler, but it can be a pain to print. The inset badge is also an option.
 <p align="center">
 <img src="Images/Badge_Inset.png" Width="400", alt="Inset Badge (easier to print)"/>
